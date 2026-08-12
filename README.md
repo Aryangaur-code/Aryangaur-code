@@ -1,6 +1,6 @@
 <!-- ===== Animated wave header ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12796B,100:0E5A50&height=180&section=header&text=Aryan%20Gaur&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=58" width="100%" alt="header"/>
+  <img src="banner.png" width="100%" alt="Aryan Gaur — AI & ML Engineer"/>
 </p>
 
 <!-- ===== Animated typing subtitle ===== -->
@@ -33,11 +33,24 @@
 
 Final-year **B.Tech (Artificial Intelligence)** student at **BIT Mesra** (CGPA 9.17). Seven internships spanning machine learning, edge AI, computer vision, IoT and geospatial analytics — with **3 research papers** across two international conferences and national hackathon wins.
 
-- 🔬 Author of 3 papers presented at **ICIEM'26** and **IDBA'26**
-- 🏆 **1st Rank** — MNIT-ISRO National Hackathon · **AIR 4** — National IDEATHON-25 · **AIR 3** — AMD Slingshot
-- 🌱 Currently deepening work in **Edge AI**, **RAG / Small Language Models**, and **embedded ML**
-- 📫 Reach me at **aryangaur76731@gmail.com**
+-  Author of 3 papers presented at **ICIEM'26** and **IDBA'26**
+-  **1st Rank** - MNIT-ISRO National Hackathon · **AIR 4** - National IDEATHON-25 · **AIR 3** - AMD Slingshot
+-  Currently deepening work in **Edge AI**, **RAG / Small Language Models** and **embedded ML**
+-  Reach me at **aryangaur76731@gmail.com**
 
+---
+### Experience
+
+| Role | Organization | Focus | When |
+|---|---|---|---|
+| **Lead R&D Intern** | Rozgar Career Tech (Work2Hire) | SLM-based ATS scoring & resume-drafting engine; AWS backend; collab with IIT Patna | 2026 |
+| **Academic Trainee** | India Space Lab, New Delhi | Dual-MCU PCB & disaster-evaluation CubeSat; rocket-motion modelling, GIS | 2026 |
+| **ML Intern** | MNIT Jaipur & Svaarogyam | AI/ML for medical devices; hardware–software integration; patient-monitoring (0.9 acc.) | 2024 · 2026 |
+| **Geofencing & ML Intern** | IIIT Vadodara | Geofencing attendance system with ML, Gradio, Leaflet & React.js frontend | 2025 |
+| **Project Intern** | Svaarogyam & APEX Hospital | Clinically validated non-invasive HbA1c estimation — 91% accuracy | 2024 |
+| **AI Automation Intern** | Alliance Polysacks Pvt. Ltd. | AI-driven automation & digital marketing — +6% monthly revenue | 2024 |
+
+<sub>7 internships across ML, edge AI, computer vision, IoT & geospatial analytics.</sub>
 ---
 
 ### Featured Projects
@@ -50,6 +63,15 @@ Final-year **B.Tech (Artificial Intelligence)** student at **BIT Mesra** (CGPA 9
 | **GOV-ASSIST AI** | Conversational governance assistant for scheme discovery, eligibility &amp; grievance redressal. | `RAG` `XGBoost` `scikit-learn` |
 | **ARTH-NITI** | Economic-intelligence platform combining ML, knowledge graphs &amp; geospatial analytics. | `KNN` `XGBoost` |
 
+---
+
+### Publications
+
+- **SAURNET: AI** - Edge-AI architecture for real-time solar fault detection and predictive optimization (CNN, LSTM). *4th Intl. Conference in Engineering & Management (ICIEM'26)* · Presented
+- **AI-Driven Panic Detection & Emergency Response** - Physiological signal analytics, hybrid deep learning, knowledge-graph intelligence and geofenced risk mapping. *6th Intl. Conference on Data Science & Big Data Analytics (IDBA'26)*
+- **Knowledge-Graph-Driven ML for Predictive Market Intelligence** - Framework combining knowledge graphs with machine learning for market forecasting. *6th Intl. Conference on Data Science & Big Data Analytics (IDBA'26)*
+
+<sub>🔗 ORCID: <a href="https://orcid.org/0009-0000-7672-808X">0009-0000-7672-808X</a></sub>
 ---
 
 ### Tech Stack
@@ -72,8 +94,9 @@ Final-year **B.Tech (Artificial Intelligence)** student at **BIT Mesra** (CGPA 9
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryangaur-code&show_icons=true&hide_border=true&title_color=12796B&icon_color=D0801E&text_color=142430" alt="stats">
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=Aryangaur-code&hide_border=true&ring=12796B&fire=D0801E&currStreakLabel=12796B" alt="streak">
+  <img src="https://img.shields.io/github/followers/Aryangaur-code?style=for-the-badge&color=12796B&labelColor=142430&logo=github&logoColor=white" alt="followers">
+  <img src="https://img.shields.io/github/stars/Aryangaur-code?style=for-the-badge&color=D0801E&labelColor=142430&logo=github&logoColor=white" alt="stars">
+  <img src="https://komarev.com/ghpvc/?username=Aryangaur-code&style=for-the-badge&color=12796B&label=PROFILE+VIEWS" alt="profile views">
 </p>
 
 <p align="center">
