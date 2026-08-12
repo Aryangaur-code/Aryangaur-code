@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # runs every 12 hours
+    - cron: "0 */12 * * *"
+  # allow manual runs from the Actions tab
+  workflow_dispatch:
+  # regenerate on every push to main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=12796B&color_dots=E7EDEF,BFE0D9,7FC4B6,3FA994,12796B
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
